@@ -36,7 +36,7 @@ function do_the_actual_render(){
                     fi
             fi
         if [ "$filename" = "os_unknown" ]; then
-            for f in os_clover os_gummiboot os_hwtest os_refit os_network os_systemd-boot
+            for f in os_clover os_gummiboot os_hwtest os_refit os_network os_systemd-boot  os_systemd
                 do
                         echo "Copying... $OUT_DIR/$f.png"
                         cp -f "$OUT_DIR/os_unknown.png" "$OUT_DIR/$f.png"
