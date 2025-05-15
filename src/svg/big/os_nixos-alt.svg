@@ -3,8 +3,8 @@
    inkscape:export-ydpi="600"
    inkscape:export-xdpi="600"
    inkscape:export-filename="/Users/samuel/Projects/nixos/nixos-artwork/logo/white.png"
-   sodipodi:docname="nixos.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="os_nixos-alt.svg"
+   inkscape:version="1.4 (unknown)"
    version="1.1"
    id="svg2"
    viewBox="0 0 120 120"
@@ -60,7 +60,7 @@
   <sodipodi:namedview
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:pagecheckerboard="false"
+     inkscape:pagecheckerboard="true"
      units="px"
      inkscape:document-rotation="0"
      fit-margin-bottom="0"
@@ -69,22 +69,23 @@
      fit-margin-top="0"
      inkscape:snap-global="true"
      inkscape:window-maximized="1"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1376"
-     inkscape:window-width="2560"
+     inkscape:window-height="1404"
+     inkscape:window-width="3440"
      showgrid="false"
      inkscape:current-layer="layer3"
      inkscape:document-units="px"
-     inkscape:cy="77.230264"
-     inkscape:cx="12.434211"
+     inkscape:cy="77.368421"
+     inkscape:cx="12.572368"
      inkscape:zoom="3.6190476"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.42352941"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#000000"
-     id="base" />
+     id="base"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -97,21 +98,17 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:none"
-     transform="matrix(0.09048806,0,0,0.09048806,-14.15991,84.454917)"
-     inkscape:label="(pdf) background"
+     inkscape:groupmode="layer"
      id="layer1"
-     inkscape:groupmode="layer">
-    <rect
-       y="-2102.4253"
-       x="-1045.6049"
-       height="7145.4614"
-       width="7947.0356"
-       id="rect995"
-       style="opacity:1;fill:#040404;fill-opacity:1;stroke-width:10.3605" />
+     inkscape:label="Layer 1">
+    <circle
+       style="fill:#000000;stroke-width:4.70355"
+       id="path1"
+       cx="60"
+       cy="60"
+       r="45" />
   </g>
   <g
-     sodipodi:insensitive="true"
      transform="translate(-156.48372,537.56136)"
      style="display:inline;opacity:1"
      inkscape:label="gradient-logo"
@@ -119,7 +116,7 @@
      inkscape:groupmode="layer">
     <g
        style="stroke-width:11.0512"
-       transform="matrix(0.01624138,0,0,0.01624138,168.94221,-501.44115)"
+       transform="matrix(0.01353448,0,0,0.01353448,176.86581,-497.46118)"
        id="g955">
       <g
          transform="matrix(11.047619,0,0,11.047619,-1572.2888,9377.7107)"

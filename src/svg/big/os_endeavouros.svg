@@ -2,8 +2,8 @@
 <svg
    width="128"
    height="128"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="os_endeavour.svg"
+   inkscape:version="1.4 (unknown)"
+   sodipodi:docname="os_endeavouros.svg"
    version="1.1"
    viewBox="0 0 127.99999 128"
    id="svg23"
@@ -25,20 +25,20 @@
      borderopacity="1.0"
      inkscape:current-layer="g21"
      inkscape:cx="82.946385"
-     inkscape:cy="68.344577"
+     inkscape:cy="68.54738"
      inkscape:document-rotation="0"
      inkscape:document-units="px"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-height="1017"
+     inkscape:window-height="1404"
      inkscape:window-maximized="1"
-     inkscape:window-width="1920"
+     inkscape:window-width="3440"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:zoom="4.930896"
      pagecolor="#ffffff"
      showgrid="false"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      units="px"
      fit-margin-top="0"
      fit-margin-right="0"
@@ -46,7 +46,9 @@
      fit-margin-left="0"
      scale-x="1"
      viewbox-width="123.82024"
-     width="64px" />
+     width="64px"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <title
      id="title3">EndeavourOS Logo</title>
   <metadata
@@ -67,7 +69,7 @@
      inkscape:label="Layer 1"
      id="g21">
     <g
-       transform="matrix(1.9854372,0,0,1.9854542,102.1085,-114.79914)"
+       transform="matrix(1.8660703,0,0,1.8660863,106.40756,-95.745629)"
        id="g19">
       <g
          transform="matrix(1.47,0,0,1.47,-519,105)"

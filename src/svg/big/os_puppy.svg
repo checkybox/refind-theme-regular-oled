@@ -2,22 +2,22 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.4 (unknown)"
    sodipodi:docname="os_puppy.svg"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,17 +28,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="31.667256"
-     inkscape:cy="69.13863"
+     inkscape:cx="31.693536"
+     inkscape:cy="69.195449"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-width="3440"
+     inkscape:window-height="1404"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -47,7 +50,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -77,10 +79,6 @@
        d="m 101.7,967.86217 c 1.3,-1.8 2,-3.4 2,-3.4 1.9,-4.8 0.8,-9.3 0.2,-11.4 -0.6,-2.3 -1.2,-3.2 -1.6,-3.7 -1.3,-1.6 -3.1,-2.3 -4.7,-2.8 -4.6,-1.4 -8.8,-1.2 -12.6,-0.9 -6.3,0.4 -9.5,0.6 -10.8,0.7 -0.5,0.1 -1,0.1 -1.5,0.2 -2.8,-0.6 -5.8,-0.9 -8.8,-0.9 -6.8,0 -13.3,1.6 -19,4.4 -2,-0.4 -3.5,-0.8 -6.5,-0.7 -3.2,0.1 -7.9,0.3 -11.9,3.7 -2.9,2.4 -4,5.3 -4.2,5.8 -1.2,3 -0.7,5.1 -0.2,11 0.3,4.1 0.3,6.3 0.3,7.7 -0.9,3.5 -1.4,7.2 -1.4,11 0,23.60003 19.3,42.80003 43,42.80003 23.7,0 43,-19.2 43,-42.90003 0,-7.5 -1.9,-14.5 -5.3,-20.6 z"
        stroke-miterlimit="10" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="Layer 4" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
