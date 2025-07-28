@@ -1,5 +1,7 @@
 # rEFInd theme Regular
 
+(it's not working yet btw so don't copy it for now)
+
 A simplistic clean and minimal theme for [rEFInd](https://www.rodsbooks.com/refind/index.html)
 
 NOTE: this is a fork of [munlik's theme](https://github.com/munlik/refind-theme-regular) since he seems to have abandoned his project, he didn't answer to (my) PRs on github for years.
