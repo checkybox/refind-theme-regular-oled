@@ -19,7 +19,7 @@ fi
 theme_source_directory=$(mktemp -d -t refind-theme-regular-oled-XXXXXX)
 cd "${theme_source_directory}"
 echo -n "Downloading rEFInd theme Regular to ${theme_source_directory}"
-git clone https://github.com/bobafetthotmail/refind-theme-regular.git &> /dev/null
+git clone https://github.com/checkybox/refind-theme-regular-oled.git &> /dev/null
 echo " - [DONE]"
 
 #Useful formatting tags
