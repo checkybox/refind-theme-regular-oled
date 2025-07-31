@@ -4,7 +4,7 @@ This is a fork of [bobafetthotmail's refind-theme-regular](https://github.com/bo
 This looks really good on OLED screens and I mostly made this for myself, but obviously everyone is free to install this theme too!
 
 I also made some small changes to the ```install.sh``` file:
-* ```/boot/EFI/refind``` is now used as a default installation directory
+* ```/boot/EFI/refind``` is now used as the default installation directory
 * Default font size changed from ```14``` to ```28```
 * Theme's directory name changed to ```refind-theme-regular-oled```
 #
